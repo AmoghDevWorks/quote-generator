@@ -1,0 +1,1 @@
+export const url = "https://stoic-quotes.com/api/quote";
